@@ -2,6 +2,8 @@
 
 Test task to showcase skill
 
+- live [Demo](https://yolo-test.netlify.app/)
+
 # Technologies
 
 - Node.js v14.x or later
